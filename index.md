@@ -10,15 +10,17 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# About me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I received a PhD in applied mathematics at the University of Leeds in November 2022.
 
-## Header 2
+I work in the area of mathematics known as integrable systems. In particular, I am in
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Before joining the University of Leeds for my PhD, I obtained an MSc at the University of the Western Cape and BSc at the University of Kinshasa in mathematics.
+
+# Publications
+
+*  Caudrelier V, Crampe N, Dibaya CM. Nonlinear mirror image method for nonlinear Schrödinger equation: Absorption/emission of one soliton by a boundary. Studies in Applied Mathematics. 2022 Feb;148(2):715-57
 
 ### Header 3
 
