@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 github:
-  - zip_url: https://github.com/carlosdibaya/downloadable_files/blob/main/CarlosDibayaResume.pdf
+  - zip_url: https://github.com/carlosdibaya/downloadable_files/blob/main/CarlosDibayaResume.pdf/download.zip
 
 # Exclude from processing.
 # The following items will not be processed, by default.
