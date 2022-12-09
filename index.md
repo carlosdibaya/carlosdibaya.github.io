@@ -26,26 +26,56 @@ I am interest in
 
 # Teaching
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+I have participated as a tutor in the following modules:
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+* Mathematical Biology, School of mathematics, University of Leeds
+   - Period: Semester 1, 2022/23
+* Analytic Solutions of Partial Differential Equations, School of mathematics, University of Leeds
+    - Period Semester 1, 2022/23
+* Elementary Differential Calculus, School of mathematics, University of Leeds
+   - Period: Semester 1, 2022/23
+* Real Analysis, School of mathematics, University of Leeds
+  - Period: Semester 2, 2021/22
+* Vector Calculus, School of mathematics, University of Leeds
+    - Period: Semester 1, 2021/22
+* Real Analysis, School of mathematics, University of Leeds
+  - Period: Semester 2 2020/21
+* Calculus of Variations, School of mathematics, University of Leeds
+  - Period: Semester 2, 2020/21
+* Vector Calculus, School of mathematics, University of Leeds
+  - Period: Semester 1, 2020/21
+* Elementary Differential Calculus, School of mathematics, University of Leeds
+  - Period: Semester 1, 2020/21
+* Nonlinear Differential Equations, School of mathematics, University of Leeds
+  - Period: Semester 2, 2021/20
+* Analytic Solutions of Partial differential equations, School of mathematics, University of Leeds
+  - Period: Semester 1, 2019/20
+* General topology, Department of Mathematics and Computer Science, University of Kinshasa
+  - Period: Semester 1, 2016/17
+* Real analysis, Department of Mathematics and Computer Science, University of Kinshasa
+  - Period: Semester 2, 2015/16
+* Measure theory, Department of Mathematics and Computer Science, University of Kinshasa
+  - Period: Semester 2, 2015/16
 
 # Selected seminars & presentions
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Presentations
+
+* Oct 2022, Integrable Systems seminar, Speaker, School of Mathematics, University of Leeds, United Kingdom, Title: "Nonlinear mirror image method for the (focusing) nonlinear Schr\"odinger equation with time-dependent integrable boundary conditions".
+* Feb 2022, Applied PGR Seminar series, Speaker, School of Mathematics, University of Leeds, United Kingdom, Title: "Inverse scattering transform for the focusing nonlinear Schrödinger equation with nonzero boundary conditions".
+* July 2021, 4th IMA Conference on Nonlinearity and Coherent Structures, Speaker, Institute of Mathematics and its Applications, United Kingdom, Title: "Nonlinear mirror image method for the nonlinear focusing Schrödinger equation with time-dependent
+dependent integrable boundary conditions".
+* Oct 2020, Applied PGR Seminar series, Speaker, School of Mathematics, University of Leeds, United Kingdom, Title:"Inverse scattering transform for the nonlinear
+Schrödinger equation with zero boundary conditions".}
+
+## Seminar participation
+
+* June 2022, Poisson structures and Noncommutative Integrability, Participant, University of Kent, Canterbury, United Kingdom
+* June 2022, Postgraduate research conference 2022, Participant, School of Mathematics, University of Leeds, United Kingdom
+* May 2022, New Trends in Lagrangian and Hamiltonian Aspects of Integrable Systems, Participant, School of Mathematics, University of Leeds, United Kingdom
+* June 2019, Applied PG Conference, Participant, School of Mathematics, University of Leeds, United Kingdom
+* May 2019, Leeds Workshop on Brackets, reduction, and integrability, Participant, School of Mathematics, University of Leeds, United Kingdom
+* Apr 2019, Integrable Systems in Newcastle: Integrability and Applications, Participant, Northumbria University, Newcastle, United Kingdom
 
 # Technical skills
 
