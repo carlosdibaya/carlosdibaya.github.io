@@ -2,27 +2,29 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 # About me
 
 I received a PhD in applied mathematics at the University of Leeds in November 2022.
 
-I work in the area of mathematics known as integrable systems. In particular, I am in
-
 Before joining the University of Leeds for my PhD, I obtained an MSc at the University of the Western Cape and BSc at the University of Kinshasa in mathematics.
+
+# Research interests
+
+I am interest in 
 
 # Publications
 
 *  Caudrelier V, Crampe N, Dibaya CM. Nonlinear mirror image method for nonlinear Schrödinger equation: Absorption/emission of one soliton by a boundary. Studies in Applied Mathematics. 2022 Feb;148(2):715-57
 
-### Header 3
+# Teaching
 
 ```js
 // Javascript code with syntax highlighting.
@@ -39,18 +41,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+# Selected seminars & presentions
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+# Technical skills
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
+<!--
 ###### Header 6
 
 | head1        | head two          | three |
@@ -123,3 +126,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
