@@ -66,7 +66,7 @@ I have participated as a tutor in the following modules:
 ## Presentations
 
 * Integrable Systems seminar, School of Mathematics, University of Leeds, United Kingdom 
-   - Title: "Nonlinear mirror image method for the (focusing) nonlinear Schr\"odinger equation with time-dependent integrable boundary conditions".
+   - Title: "Nonlinear mirror image method for the (focusing) nonlinear Schrödinger equation with time-dependent integrable boundary conditions".
    - Date: October 2022
 * Applied PGR Seminar series, School of Mathematics, University of Leeds, United Kingdom
   - Title: "Inverse scattering transform for the focusing nonlinear Schrödinger equation with nonzero boundary conditions".
@@ -89,7 +89,7 @@ dependent integrable boundary conditions".
 * Leeds Workshop on Brackets, reduction, and integrability, Participant, School of Mathematics, University of Leeds, United Kingdom
    - Date: May 2019
 * Integrable Systems in Newcastle: Integrability and Applications, Participant, Northumbria University, Newcastle, United Kingdom
-  - April 2019
+  - Date: April 2019
 
 # Technical skills
 
