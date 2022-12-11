@@ -12,10 +12,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About me
 
-<div style="text-align: justify"> I received a PhD in applied mathematics at the University of Leeds in November 2022. I work under the supervision of Dr Vincent Caudrelier in the integrable systems group.
+<div style="text-align: justify"> <p>I received a PhD in applied mathematics at the University of Leeds in November 2022. I work under the supervision of Dr Vincent Caudrelier in the integrable systems group.</p>
 
-
-Before joining the University of Leeds for my PhD, I obtained an MSc at the University of the Western Cape and BSc at the University of Kinshasa in mathematics.
+<p>Before joining the University of Leeds for my PhD, I obtained an MSc at the University of the Western Cape and BSc at the University of Kinshasa in mathematics.</p>
 </div>
 
 # Research interests
