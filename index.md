@@ -63,7 +63,7 @@ I have participated as a tutor in the following modules:
 
 # Selected seminars & presentions
 
-## Presentations
+### Presentations
 
 * Integrable Systems seminar, School of Mathematics, University of Leeds, United Kingdom 
    - Title: "Nonlinear mirror image method for the (focusing) nonlinear Schrödinger equation with time-dependent integrable boundary conditions".
@@ -76,7 +76,7 @@ I have participated as a tutor in the following modules:
 dependent integrable boundary conditions".
      - Date: July 2021
 
-## Seminar participation
+### Seminar participation
 
 * Poisson structures and Noncommutative Integrability, Participant, University of Kent, Canterbury, United Kingdom
    - Date: June 2022
@@ -93,12 +93,12 @@ dependent integrable boundary conditions".
 
 # Technical skills
 
-## Programming skills
+### Programming skills
 
 * Python and Data Science
 * C and Fortran
 
-## Scientific software
+### Scientific software
 
 * SageMath
 * Maple
