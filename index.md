@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <div style="text-align: justify"> <p>I received a PhD in applied mathematics at the University of Leeds in November 2022. I worked under the supervision of Dr Vincent Caudrelier in the Integrable Systems group.</p>
 
-<p>Before joining the University of Leeds for my PhD, I obtained an MSc at the University of the Western Cape and BSc at the University of Kinshasa in mathematics.</p>
+<p>I also hold a BSc and an MSc in mathematics from the University of Kinshasa and the University of the Western Cape, respectively</p>
 </div>
 
 # Research interests
