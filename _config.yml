@@ -20,7 +20,7 @@
 
 title: Carlos Dibaya
 email: carlos@aims.ac.za
-show_downloads: false
+show_downloads: true
 google_analytics: G-7W95DVMKJ3
 description: >- # this means to ignore newlines until "baseurl:"
   PhD in applied mathematics
@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 github:
-  - zip_url: https://github.com/carlosdibaya/downloadable_files/blob/main/CarlosDibayaResume.pdf/download.zip
+  - zip_url: /CarlosDibayaResume.pdf/download.zip
 
 # Exclude from processing.
 # The following items will not be processed, by default.
