@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About me
 
-<div style="text-align: justify"> <p>I received a PhD in applied mathematics at the University of Leeds in November 2022. I worked under the supervision of Dr Vincent Caudrelier in the Integrable Systems group. {{site.title}}</p>
+<div style="text-align: justify"> <p>I received a PhD in applied mathematics at the University of Leeds in November 2022. I worked under the supervision of Dr Vincent Caudrelier in the Integrable Systems group.</p>
 
 <p>I also hold a BSc and an MSc in mathematics from the University of Kinshasa and the University of the Western Cape, respectively.</p>
 </div>
