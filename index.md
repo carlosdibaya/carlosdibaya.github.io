@@ -54,12 +54,6 @@ I have participated as a tutor in the following modules:
   - Period: Semester 2, 2021/20
 * Analytic Solutions of Partial differential equations, School of mathematics, University of Leeds
   - Period: Semester 1, 2019/20
-* General topology, Department of Mathematics and Computer Science, University of Kinshasa
-  - Period: Semester 1, 2016/17
-* Real analysis, Department of Mathematics and Computer Science, University of Kinshasa
-  - Period: Semester 2, 2015/16
-* Measure theory, Department of Mathematics and Computer Science, University of Kinshasa
-  - Period: Semester 2, 2015/16
 
 # Selected seminars & presentions
 
