@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# Education background
+# Education
 
 <div style="text-align: justify"> <p>I received a PhD in applied mathematics at the University of Leeds in November 2022. I worked under the supervision of Dr Vincent Caudrelier in the Integrable Systems group.</p>
 
