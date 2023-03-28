@@ -84,16 +84,3 @@ dependent integrable boundary conditions".
    - Date: May 2019
 * Integrable Systems in Newcastle: Integrability and Applications, Participant, Northumbria University, Newcastle, United Kingdom
   - Date: April 2019
-
-# Technical skills
-
-### Programming skills
-
-* Python and Data Science
-* C and Fortran
-
-### Scientific software
-
-* SageMath
-* Maple
-* Singular
