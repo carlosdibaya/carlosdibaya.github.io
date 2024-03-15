@@ -17,9 +17,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Research interests
 
-<div style="text-align: justify"> <p>I am interested in the area of Mathematical Physics, known as Integrable Systems. In particular, I study initial-value problems and initial-boundary value problems for the class integrable nonlinear partial differential equations (PDEs). This class contains some of the well-known models in Mathematical Physics, such as the nonlinear Schrödinger equation, Korteweg-de Vries equation and Sine-Gordon equation. </p>
+<div style="text-align: justify"> <p>I am interested in the area of Mathematical Physics, known as Integrable Systems. In particular, I study initial-value problems and initial-boundary value problems for the class integrable nonlinear partial differential equations (PDEs). This class contains some of the well-known models in Mathematical Physics, such as the nonlinear Schrödinger equation, the Korteweg-de Vries equation and the Sine-Gordon equation. </p>
 
-<p>These equations share an interesting feature: they all admit soliton solutions. Solitons are solutions that behave like particles and waves; they arise in many physical systems, such as internal water waves and nonlinear optics. Solitons have attracted scientists's attention in the last 60 years due to their stability. Another feature that integrable nonlinear PDEs have in common is that they are obtained in terms of systems of ordinary differential equations known as Lax pairs. The spectral analysis of these Lax pairs gives rise to the powerful inverse scattering transform (IST). The IST is used to analyse initial-value problems (IVPs) for integrable nonlinear PDEs. A characteristic of the IST method is that it provides a framework to construct soliton solutions following a finite number of steps. It has been named inverse scattering transform due to its multiple similarities with the Fourier transform, which is used to analyse IVPs for linear PDEs.</p> 
+<p>These equations share an interesting feature: they all admit soliton solutions. Solitons are solutions that behave like particles and waves; they arise in many physical systems, such as internal water waves and nonlinear optics. Solitons have attracted scientists' attention in the last 60 years due to their stability. Another feature that integrable nonlinear PDEs have in common is that they are obtained in terms of systems of ordinary differential equations known as Lax pairs. The spectral analysis of these Lax pairs gives rise to the powerful inverse scattering transform (IST). The IST is used to analyse initial-value problems (IVPs) for integrable nonlinear PDEs. A characteristic of the IST method is that it provides a framework to construct soliton solutions following a finite number of steps. It has been named inverse scattering transform due to its multiple similarities with the Fourier transform, which is used to analyse IVPs for linear PDEs.</p> 
 </div>
 
 # Publication
@@ -30,27 +30,27 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 I have participated as a tutor in the following modules:
 
-* Mathematical Biology, School of mathematics, University of Leeds
+* Mathematical Biology, School of Mathematics, University of Leeds
    - Period: Semester 1, 2022/23
-* Analytic Solutions of Partial Differential Equations, School of mathematics, University of Leeds
+* Analytic Solutions of Partial Differential Equations, School of Mathematics, University of Leeds
     - Period: Semester 1, 2022/23
-* Elementary Differential Calculus, School of mathematics, University of Leeds
+* Elementary Differential Calculus, School of Mathematics, University of Leeds
    - Period: Semester 1, 2022/23
-* Real Analysis, School of mathematics, University of Leeds
+* Real Analysis, School of Mathematics, University of Leeds
   - Period: Semester 2, 2021/22
-* Vector Calculus, School of mathematics, University of Leeds
+* Vector Calculus, School of Mathematics, University of Leeds
     - Period: Semester 1, 2021/22
-* Real Analysis, School of mathematics, University of Leeds
+* Real Analysis, School of Mathematics, University of Leeds
   - Period: Semester 2 2020/21
-* Calculus of Variations, School of mathematics, University of Leeds
+* Calculus of Variations, School of Mathematics, University of Leeds
   - Period: Semester 2, 2020/21
-* Vector Calculus, School of mathematics, University of Leeds
+* Vector Calculus, School of Mathematics, University of Leeds
   - Period: Semester 1, 2020/21
-* Elementary Differential Calculus, School of mathematics, University of Leeds
+* Elementary Differential Calculus, School of Mathematics, University of Leeds
   - Period: Semester 1, 2020/21
-* Nonlinear Differential Equations, School of mathematics, University of Leeds
+* Nonlinear Differential Equations, School of Mathematics, University of Leeds
   - Period: Semester 2, 2021/20
-* Analytic Solutions of Partial differential equations, School of mathematics, University of Leeds
+* Analytic Solutions of Partial differential equations, School of Mathematics, University of Leeds
   - Period: Semester 1, 2019/20
 
 # Selected seminars & presentions
